@@ -3,6 +3,7 @@
   "adminEmail": "shane@mailinator.com",
   "description": "epbnba_jp_scratchorg",
   "template": "0TT6g000003hPUB",
+  "language": "ja",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
